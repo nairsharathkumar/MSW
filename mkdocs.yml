@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Matillion Writing Assignment
+theme:
+  name: readthedocs
+features:
+  - content.progress
+  - navigation.top
+nav:
+  - Home: index.md
+  - Recipe:
+      - Coffee: coffee.md
+markdown_extensions:
+  - admonition
+
