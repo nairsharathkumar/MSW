@@ -1,9 +1,7 @@
 site_name: Matillion Writing Assignment
+site_favicon: coffee.ico
 theme:
   name: readthedocs
-features:
-  - content.progress
-  - navigation.top
 nav:
   - Home: index.md
   - Recipe:
