@@ -9,3 +9,5 @@ nav:
 markdown_extensions:
   - admonition
 
+extra_css:
+  - extra.css
