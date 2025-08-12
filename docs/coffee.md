@@ -19,7 +19,7 @@ Filter coffee is a hot beverage made by brewing ground coffee powder through a m
 
 ---
 ### What is a South Indian Coffee filter
-![Coffee Maker](images/coffee_maker.jpg)
+![Coffee Maker](/images/coffee_maker.jpg)
 
 A South Indian Coffee filter is used to make coffee decoction, a key ingredient for making filter coffe. A South Indian coffee filter is either made of steel or brass. The filter comes with 3 parts, namely
 
