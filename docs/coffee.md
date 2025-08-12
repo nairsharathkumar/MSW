@@ -89,5 +89,5 @@ Follow these steps to brew coffee.
 Your perfect aromatic cup of South Indian-style filter coffee is ready. 
 
 ---
-## Watch videos on YouTube
+## Watch videos
 [How to make filter coffee](https://www.youtube.com/watch?v=YLwO2ylP6T4)
