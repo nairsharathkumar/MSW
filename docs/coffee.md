@@ -48,7 +48,7 @@ To assemble the South Indian Coffee filter, follow the steps below.
 ### About the dabara set
 ![Dabara Set](images/db1.jpg)
 
-South Indian-style filter coffee is traditionally served in dabara - a coffee serving set that consists of a tumbler and saucer-like bowl. The tumbler is used to hold the coffee and the saucer helps to cool the coffee by pouring it back and forth between the two.
+South Indian-style filter coffee is traditionally served in dabara—a coffee serving set that consists of a tumbler and saucer-like bowl. The tumbler is used to hold the coffee and the saucer helps to cool the coffee by pouring it back and forth between the two.
 
 ---
 
